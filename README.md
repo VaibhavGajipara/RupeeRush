@@ -49,6 +49,34 @@ The objective of RupeeRush is to apply **Object-Oriented Programming concepts** 
 
 ---
 
+## Learning Outcomes
+
+- Practical implementation of **Object-Oriented Programming concepts**
+
+- Hands-on experience with **STL data structures**
+
+- Understanding of file handling and data persistence
+
+- Simulation of real-world financial systems
+
+- Improved code organization and modularity
+
+---
+
+## Future Enhancements
+
+- Multiple user support
+
+- Transaction history and logs
+
+- Sorting and searching of stocks
+
+- Graphical User Interface (GUI)
+
+- Real-time stock data integration using APIs
+
+---
+
 ##  How to Run the Project
 
 1. Clone the repository:
